@@ -121,8 +121,8 @@ header {
 }
 
 header h2 {
-    font-family: "Ancizar Sans", system-ui;
-    padding-bottom: 40px;
+    font-family: "Ancizar Sans", serif;
+    padding-bottom: 80px;
     margin-top: -20px;
     font-size: 20px;
 }
@@ -146,7 +146,7 @@ main a {
 }
 
 main a:hover {
-    color: rgb(211, 24, 218);
+    color: rgb(24, 218, 82);
 }
 
 footer {
