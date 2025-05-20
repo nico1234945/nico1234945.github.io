@@ -95,8 +95,8 @@ html {
 }
 
 body {
-    background-color: #f0f0f0;
-    font-family: "Nunito", sans-serif;
+    background-color: #d6ffbe;
+    font-family: "Helvetica", sans-serif;
     height: 100%;
 }
 
@@ -121,7 +121,7 @@ header {
 }
 
 header h2 {
-    font-family: "Pompiere", system-ui;
+    font-family: "Ancizar Sans", system-ui;
     padding-bottom: 40px;
     margin-top: -20px;
     font-size: 20px;
