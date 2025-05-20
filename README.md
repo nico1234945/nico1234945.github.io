@@ -13,7 +13,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="styles.css">
-  <title>Ash Vale - Author</title>
+  <title>Nico Martinez Nocito - Author</title>
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
@@ -28,7 +28,7 @@
     <header>
       <div>
         <h1><a href="index.html">ash vale</a></h1>
-        <h2>writer of the dark and unusual</h2>
+        <h2>writer of SFF</h2>
         <ul class="navigation">
           <li><a href="about.html">about</a></li>
           <li><a href="stories.html">stories</a></li>
@@ -51,11 +51,11 @@
     <footer>
       <hr>
       <ul>
-        <li><a href="https://bsky.app/profile/ashvalewrites.bsky.social" target="_blank"><img
-              src="images/bluesky.svg"></a></li>
-        <li><a href="https://www.instagram.com/ashvalewrites/" target="_blank"><img src="images/instagram.svg"></a></li>
+        <li><a href="https://bsky.app/profile/nicowritesbooks.bsky.social" target="_blank"><img
+              src="about/bluesky.svg"></a></li>
+        <li><a href="https://www.instagram.com/nicowritesbooks/" target="_blank"><img src="about/instagram.svg"></a></li>
       </ul>
-      <p>copyright © 2025 ash vale. all rights reserved</p>
+      <p>Copyright © 2025 Nico Martinez Nocito. All rights reserved.</p>
     </footer>
   </div>
 </body>
