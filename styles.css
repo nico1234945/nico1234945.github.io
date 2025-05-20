@@ -78,7 +78,6 @@ summary,
 time,
 mark,
 audio,
-
 video {
     margin: 0;
     padding: 0;
@@ -87,7 +86,6 @@ video {
     font: inherit;
     vertical-align: baseline;
 }
-
 
 html {
     height: 100%;
