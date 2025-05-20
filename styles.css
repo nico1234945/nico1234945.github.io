@@ -78,14 +78,6 @@ summary,
 time,
 mark,
 audio,
-video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
 
 html {
     height: 100%;
@@ -130,7 +122,7 @@ header h2 {
 main {
     margin: auto;
     margin-top: 20px;
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
     max-width: 1000px;
     padding: 10px
@@ -183,7 +175,7 @@ header hr {
 }
 
 header h1 a {
-    color: rgb(211, 24, 218);
+    color: rgb(20, 51, 185);
     font-family: "Pompiere", system-ui;
     font-weight: 400;
     font-style: normal;
