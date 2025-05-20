@@ -27,7 +27,7 @@
   <div class="wrapper">
     <header>
       <div>
-        <h1><a href="index.html">ash vale</a></h1>
+        <h1><a href="index.html">Nico Martinez Nocito</a></h1>
         <h2>writer of SFF</h2>
         <ul class="navigation">
           <li><a href="about.html">about</a></li>
