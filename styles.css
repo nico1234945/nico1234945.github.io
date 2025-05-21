@@ -88,7 +88,7 @@ video {
 }
 
 *{
-    text-align: left;
+    text-align: center;
     color: black;
     font-family: "Crimson Text", "Times", serif;    
 }
@@ -117,6 +117,14 @@ body {
     background-color: #FFFFFF;
     font-family: "Crimson Text", "Times", serif;
     height: 100%;
+    text-align: left;
+}
+
+p {
+    background-color: #FFFFFF;
+    font-family: "Crimson Text", "Times", serif;
+    height: 100%;
+    text-align: left;
 }
 
 .wrapper {
