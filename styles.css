@@ -173,6 +173,7 @@ footer img {
 footer ul {
     padding-top: 10px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 footer li {
@@ -189,6 +190,7 @@ header hr {
     max-width: 400px;
     border-top: 1px solid;
     border-bottom: none;
+    text-align: center;
     margin: auto;
 }
 
@@ -197,6 +199,7 @@ header h1 a {
     font-family: "Crimson Text", system-ui;
     font-weight: 400;
     font-style: italic;
+    text-align: center;
     font-size: 100px;
     text-decoration: none;
     font-weight: bold;
@@ -210,12 +213,14 @@ header li {
     font-family: "Nunito", sans-serif;
     font-weight: 600;
     font-size: 18px;
+    text-align: center;
     padding-bottom: 5px;
 }
 
 li a {
     color: black;
     text-decoration: none;
+    text-align: center;
 }
 
 li a:hover {
