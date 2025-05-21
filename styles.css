@@ -87,6 +87,25 @@ video {
     vertical-align: baseline;
 }
 
+*{
+    text-align: left;
+    color: black;
+    font-family: "Crimson Text", "Times", serif;    
+}
+
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
 html {
     height: 100%;
     box-sizing: border-box;
@@ -95,8 +114,8 @@ html {
 }
 
 body {
-    background-color: #d6ffbe;
-    font-family: "Helvetica", sans-serif;
+    background-color: #FFFFFF;
+    font-family: "Crimson Text", "Times", serif;
     height: 100%;
 }
 
@@ -106,22 +125,13 @@ body {
     grid-template-rows: auto 1fr auto;
 }
 
-.published {
-    text-align: left;
-}
-
-.email {
-    font-weight: bold;
-    font-style: italic;
-}
-
 header {
     text-align: center;
     margin-top: 20px;
 }
 
 header h2 {
-    font-family: "Ancizar Sans", serif;
+    font-family: "Crimson Text", serif;
     padding-bottom: 80px;
     margin-top: -20px;
     font-size: 20px;
@@ -183,10 +193,10 @@ header hr {
 }
 
 header h1 a {
-    color: rgb(20, 51, 185);
-    font-family: "Pompiere", system-ui;
+    color: #000000;
+    font-family: "Crimson Text", system-ui;
     font-weight: 400;
-    font-style: normal;
+    font-style: italic;
     font-size: 100px;
     text-decoration: none;
     font-weight: bold;
