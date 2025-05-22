@@ -91,7 +91,9 @@ video {
 *{
     text-align: center;
     color: black;
-    font-family: "Crimson Text", "Times", serif;    
+    font-family: "Crimson Text", "Times", serif;  
+      box-sizing: border-box;
+
 }
 
 .crimson-text-regular {
@@ -253,8 +255,17 @@ ul {
   padding: 0 4px;
 }
 
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
 /* Create two equal columns that sits next to each other */
 .column {
+  -ms-flex: 50%; /* IE 10 */
   flex: 50%;
   padding: 0 4px;
 }
@@ -263,4 +274,3 @@ ul {
   margin-top: 8px;
   vertical-align: middle;
 }
-
