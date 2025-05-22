@@ -138,11 +138,42 @@ header {
     margin-top: 20px;
 }
 
+header hr {
+    max-width: 400px;
+    border-top: 1px solid;
+    border-bottom: none;
+    text-align: center;
+    margin: auto;
+}
+
+header h1 a {
+    color: #000000;
+    font-family: "Crimson Text", system-ui;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    font-size: 100px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+header li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
 header h2 {
     font-family: "Crimson Text", serif;
-    padding-bottom: 80px;
-    margin-top: -20px;
-    font-size: 20px;
+    padding-bottom: 10px;
+    margin-top: -10px;
+    font-size: 30px;
 }
 
 main {
@@ -156,6 +187,9 @@ main {
 
 main h2 {
     margin-bottom: 10px;
+    font-family: "Marcellus", serif;
+    text-align: left;
+    font-size: 40px;
     font-weight: bold;
 }
 
@@ -190,40 +224,6 @@ footer li {
     padding-right: 10px;
 }
 
-.profilepic {
-    max-width: 250px;
-}
-
-header hr {
-    max-width: 400px;
-    border-top: 1px solid;
-    border-bottom: none;
-    text-align: center;
-    margin: auto;
-}
-
-header h1 a {
-    color: #000000;
-    font-family: "Crimson Text", system-ui;
-    font-weight: 400;
-    font-style: italic;
-    text-align: center;
-    font-size: 100px;
-    text-decoration: none;
-    font-weight: bold;
-    margin-top: 20px;
-}
-
-header li {
-    display: inline-block;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-family: "Nunito", sans-serif;
-    font-weight: 600;
-    font-size: 18px;
-    text-align: center;
-    padding-bottom: 5px;
-}
 
 li a {
     color: black;
