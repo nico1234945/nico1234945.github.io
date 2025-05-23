@@ -84,7 +84,7 @@ header ul {
 }
 
 header li {
-  float: center;
+  float: left;
 }
 
 header li a {
@@ -97,7 +97,6 @@ header li a {
   padding: 14px 16px;
   text-decoration: none;
     style="float:center"
-
 }
 
 header li a:hover:not(.active) {
