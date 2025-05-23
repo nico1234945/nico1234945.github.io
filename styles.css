@@ -74,6 +74,42 @@ header h2 {
 }
 
 
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%
+}
+
+header li {
+  float: center;
+}
+
+header li a {
+  display: block;
+    float: center;
+
+  font-family: "Amaranth", sans-serif;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    style="float:center"
+
+}
+
+header li a:hover:not(.active) {
+  color: #f1c40f;
+}
+
+header .active {
+  color: #196f3d;
+}
+
+
+
 main {
     margin: auto;
     margin-top: 20px;
