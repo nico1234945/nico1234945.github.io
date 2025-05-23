@@ -74,7 +74,6 @@ header h2 {
 }
 
 
-///added later
 
 
 header ul {
@@ -96,7 +95,6 @@ header li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  style="float:right"
 }
 
 header li a:hover:not(.active) {
