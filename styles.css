@@ -33,6 +33,11 @@ p {
     text-align: left;
 }
 
+blockquote {
+    text-align: left;
+    margin-left: 20px;
+}
+
 .wrapper {
     grid-template-rows: auto 1fr auto;
     min-height: 100%;
