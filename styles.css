@@ -93,7 +93,7 @@ header li {
 }
 
 header li a {
-  display: block;
+    display: inline-block;
     float: center;
 
   font-family: "Amaranth", sans-serif;
