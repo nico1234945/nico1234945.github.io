@@ -91,6 +91,7 @@ header ul {
 header li {
     display: inline-block;
     text-align: center;
+    float: center;
 }
 
 header li a {
