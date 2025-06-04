@@ -89,12 +89,11 @@ header ul {
 }
 
 header li {
-  float: left;
+    display: inline-block;
+    text-align: center;
 }
 
 header li a {
-    display: inline-block;
-    float: center;
 
   font-family: "Amaranth", sans-serif;
   color: black;
