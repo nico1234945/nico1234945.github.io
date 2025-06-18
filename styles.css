@@ -6,6 +6,8 @@
 
 }
 
+
+
 .crimson-text-regular {
   font-family: "Crimson Text", serif;
   font-weight: 400;
@@ -157,7 +159,7 @@ main h4 {
 }
 
 main a {
-    color: black;
+    color: rgb(7, 130, 243);
 }
 
 main a:hover {
@@ -226,4 +228,10 @@ ul {
   -ms-flex: 25%; /* IE 10 */
   flex: 25%;
   padding: 0 4px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 3px;
 }
